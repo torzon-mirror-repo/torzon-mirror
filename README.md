@@ -39,4 +39,6 @@ This platform is for educational information. We do not support illegal activiti
 
 The goal is to educate. We don't endorse any illegal acts.
 
-Update:  26 June url is back online
+
+
+Update:  07/04/2025 04-21-38 Fixed broken link, now live and functioning
