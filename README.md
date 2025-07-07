@@ -41,4 +41,6 @@ The goal is to educate. We don't endorse any illegal acts.
 
 
 
-Update:  07/04/2025 04-21-38 Fixed broken link, now live and functioning
+
+
+Update: Resolved dead links in architecture documentation
